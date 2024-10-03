@@ -1,2 +1,5 @@
-Computer Vision and Computer Graphics projects \n
+Computer Vision and Computer Graphics projects 
+
+
+
 1st Project: Edge Detection ALgorithm
